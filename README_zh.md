@@ -1,7 +1,7 @@
 # Mirror Reality
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Mirror-Reality/Mirror/main/assets/images/mirror_reality_logo.png" alt="Mirror Reality Logo" width="400"/>
+    <img src="./assets/images/mirror_reality_logo.png" alt="Mirror Reality Logo" width="800"/>
     
 [![Twitter Follow](https://img.shields.io/twitter/follow/MirrorReality9?style=social)](https://twitter.com/MirrorReality9)
 [![GitHub](https://img.shields.io/github/stars/Mirror-Reality/mirror-reality?style=social)](https://github.com/Mirror-Reality/mirror-reality)
