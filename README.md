@@ -2,7 +2,9 @@
     <img src="./assets/images/mirror_reality_logo.png" alt="Mirror Reality Logo" width="800"/>
 </div>
 
-# Mirror Reality
+<div align="center">
+    <h1>Mirror Reality</h1>
+</div>
 
 <div align="center">
     
