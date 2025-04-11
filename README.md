@@ -7,8 +7,6 @@
 [![GitHub](https://img.shields.io/github/stars/Mirror-Reality/mirror-reality?style=social)](https://github.com/Mirror-Reality/mirror-reality)
 [![Website](https://img.shields.io/badge/Website-mirror--reality.xyz-blue)](https://mirror-reality.xyz)
 
-[English](./README.md) | [简体中文](./README_zh.md)
-
 ---
 
 **Mirror Reality: Digital Identity Platform on Solana**
