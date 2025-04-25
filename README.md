@@ -8,7 +8,7 @@
 
 <div align="center">
     
-[![Twitter Follow](https://img.shields.io/twitter/follow/MirrorReality9?style=social)](https://twitter.com/MirrorReality9)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mirror_Reality2?style=social)](https://x.com/Mirror_Reality2)
 [![GitHub](https://img.shields.io/github/stars/Mirror-Reality/mirror-reality?style=social)](https://github.com/Mirror-Reality/mirror-reality)
 [![Website](https://img.shields.io/badge/Website-mirror--reality.xyz-blue)](https://mirror-reality.xyz)
 
